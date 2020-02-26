@@ -1,13 +1,3 @@
-
->转载请标明出处： 
-> http://blog.itwolfed.com/  
-> 本文出自[程序员果果的博客](http://blog.itwolfed.com/)
-
-### 源码
-- github | Spring Boot 系列 ：[https://github.com/gf-huanchupk/SpringBootLearning](https://github.com/gf-huanchupk/SpringBootLearning),记得star哦！
-- github | Spring Cloud 系列 ：[https://github.com/gf-huanchupk/SpringCloudLearning](https://github.com/gf-huanchupk/SpringCloudLearning),记得star哦！
-
-
 ### Spring Boot 系列
 
 - [Spring Boot 教程 | Spring Boot 自定义 starter](http://blog.itwolfed.com/blog/5)
@@ -78,16 +68,3 @@
 - [Docker 教程 | 第八篇 : 服务 Docker 化](http://blog.itwolfed.com/blog/93)
 - [Docker 教程 | 第九篇 : Docker Swarm 集群环境搭建](http://blog.itwolfed.com/blog/94)
 - [Docker 教程 | 第十篇 : Docker Swarm 微服务部署](http://blog.itwolfed.com/blog/95)
-
-### 关注我
-
-<div>
-    <p align="center">
-        <img src="https://img-blog.csdnimg.cn/20181219135239593.jpg" width="258" height="258"/>
-        <br>
-        欢迎扫码或微信搜索公众号《程序员果果》关注我，更多精彩内容不能错过 ~~
-    </p>
-    <p align="center" style="margin-top: 15px; font-size: 11px;color: #cc0000;">
-        <strong>（转载本站文章请注明作者和出处 <a href="http://blog.itwolfed.com/">程序员果果的博客</a>）</strong>
-    </p>
-</div>
